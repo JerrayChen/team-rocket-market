@@ -1,0 +1,14 @@
+.header-btn-set{
+    margin-top: 5px;
+}
+.header-btn{
+    width: 140px;
+    height: 28px;
+    background-color: #1C2833;
+    color: #db7f67;
+    font-size: 18px;
+    text-align: center;
+    border: #db7f67 solid 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

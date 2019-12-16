@@ -1,0 +1,49 @@
+.main{
+    width: 90vw;
+    margin: auto;
+}
+
+.main-top-controller{
+    display: flex;
+    justify-content: space-between;
+    width: 85vw;
+    height: 60px;
+    margin: auto;
+}
+
+.main-top-controller-left{
+    display: flex;
+    justify-content: space-between;
+    width: 85vw;
+    height: 60px;
+    margin: auto;
+}
+
+.main-top-btn-1{
+    width: 200px;
+    height: 30px;
+    background-color: #175676;
+    color: #dbbea1;
+    font-size: 20px;
+    text-align: center;
+    border: #dbbea1 solid 2px;
+    margin-top: 15px;
+}
+
+.main-top-btn-2{
+    width: 400px;
+    height: 30px;
+    background-color: #175676;
+    color: #dbbea1;
+    font-size: 20px;
+    text-align: center;
+    border: #dbbea1 solid 2px;
+    margin-top: 15px;
+}
+
+.main-message{
+    padding-top: 175px;
+    color: #dbbea1;
+    font-size: 40px;
+    font-family: system-ui;
+}

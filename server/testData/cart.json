@@ -1,0 +1,22 @@
+{
+    "Giovanni": [
+        {
+            "id": 11,
+            "name": "bulbasaur",
+            "sex": "M",
+            "level": 50,
+            "price": 50,
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "trainer":"Misty"
+        },
+        {
+            "id": 12,
+            "name": "pikachu",
+            "sex": "M",
+            "level": 50,
+            "price": 35,
+            "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+            "trainer":"Misty"
+        }
+    ]
+}

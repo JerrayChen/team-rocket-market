@@ -1,0 +1,7 @@
+.pokemon-list{
+    /* background: lightslategrey; */
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}

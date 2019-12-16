@@ -1,0 +1,13 @@
+.member{
+    margin-top: 5px;
+    font-size: 20px;
+    font-family: system-ui;
+}
+
+.memberText{
+    width: 125px;
+    background-color: #1C2833;
+    color: #db7f67;
+    font-size: 20px;
+    border: #db7f67 solid 2px;
+}
